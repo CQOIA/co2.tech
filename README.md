@@ -1,2 +1,2 @@
 # co2.tech
-web development
+UI|UX web development
